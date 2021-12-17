@@ -11,7 +11,7 @@ function MyApp({ Component, pageProps }) {
           <Link href="/">
             <a className="mr-6 text-pink-500">Home</a>
           </Link>
-          <Link href="/crete-item">
+          <Link href="/create-item">
             <a className="mr-6 text-pink-500">Sell Digital Assets</a>
           </Link>
           <Link href="/my-assets">
